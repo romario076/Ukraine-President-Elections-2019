@@ -31,7 +31,7 @@ The higher education rate in region the more percets of votes he received in thi
 <img width="571" alt="image" src="https://github.com/user-attachments/assets/ac0920dd-ee30-4e70-8aae-fc8517af6be6">
 
 
-For candidate Zelenskiy, we can completely opposite situation. The lower education rate in the region the more percent of votes he received.
+For candidate Zelenskiy, we easy to see a completely opposite situation. The lower the education rate in the region the more percent of votes he received.
 
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/5ad676ac-929d-4e90-951d-417ec6187b4e">
 
